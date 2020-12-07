@@ -1,6 +1,5 @@
 #include <linux/init.h>
 #include <linux/module.h>
-#include <linux/types.h>
 #include <hello1.h>
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_DESCRIPTION("AK_Lab6");
